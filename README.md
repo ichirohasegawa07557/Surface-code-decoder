@@ -1,4 +1,4 @@
-# Surface Code Decoder From Scratch
+# Surface Code Decoder 
 
 This repository contains an educational, from-scratch surface-code decoder implementation.
 
